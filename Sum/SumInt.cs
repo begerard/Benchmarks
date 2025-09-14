@@ -97,7 +97,6 @@ public class SumInt
             partial3 += slice3[i];
             partial4 += slice4[i];
         }
-        ;
 
         result += partial1;
         result += partial2;
